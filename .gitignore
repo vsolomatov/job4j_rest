@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea
+/out
+/job4j_rest.iml
+
+/job4j_rest/*.iml
+/job4j_rest/target
+
+/target
+/bank/target
+/chat/target
